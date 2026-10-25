@@ -1,118 +1,26 @@
 <!doctype html>
-<html lang="en">
+<html lang="en-US" data-page="index.html" data-base="./">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Personal academic website exploring climate finance, green finance policy, infrastructure financing, and risk pricing.">
-  <title>Tianhua-Oliver-Wang | Academic Website</title>
-  <style>
-    :root { color-scheme: light; --paper: #f8f7f3; --ink: #263b33; --muted: #65736b; --line: #dce1d8; }
-    * { box-sizing: border-box; }
-    html { scroll-behavior: smooth; scroll-padding-top: 24px; }
-    body { margin: 0; background: var(--paper); color: var(--ink); font: 16px/1.75 system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
-    a { color: inherit; text-underline-offset: 5px; }
-    a:hover { color: #476c54; }
-    a:focus-visible { outline: 2px solid #476c54; outline-offset: 5px; }
-    .skip { position: absolute; top: -80px; left: 20px; padding: 8px 16px; background: white; }
-    .skip:focus { top: 10px; }
-    .wrap { max-width: 1040px; margin: 0 auto; padding: 0 32px; }
-    header { display: flex; justify-content: space-between; align-items: center; gap: 24px; padding: 30px 0; border-bottom: 1px solid var(--line); }
-    .brand { font-size: 14px; font-weight: 650; text-decoration: none; letter-spacing: .025em; }
-    nav { display: flex; flex-wrap: wrap; gap: 9px 21px; }
-    nav a { font-size: 13px; text-decoration: none; }
-    .hero { padding: 88px 0 72px; max-width: 760px; }
-    .eyebrow { font-size: 11px; font-weight: 650; letter-spacing: .17em; text-transform: uppercase; color: var(--muted); }
-    h1, h2 { font-family: Georgia, "Times New Roman", serif; font-weight: 400; }
-    h1 { font-size: clamp(42px, 6vw, 67px); line-height: 1.12; letter-spacing: -.045em; margin: 20px 0 26px; }
-    .intro { max-width: 640px; font-size: 18px; color: var(--muted); }
-    .button { display: inline-block; margin-top: 16px; padding: 9px 18px; border: 1px solid var(--ink); border-radius: 3px; text-decoration: none; font-size: 13px; }
-    section { display: grid; grid-template-columns: 210px 1fr; gap: 36px; padding: 33px 0; border-top: 1px solid var(--line); }
-    h2 { margin: 0; font-size: 27px; line-height: 1.4; }
-    p { margin: 0 0 12px; }
-    section p:last-child { margin-bottom: 0; }
-    ul { margin: 0; padding-left: 19px; }
-    li { padding-bottom: 5px; }
-    .note { color: var(--muted); font-size: 14px; }
-    footer { margin-top: 40px; padding: 24px 0 35px; border-top: 1px solid var(--line); font-size: 12px; color: var(--muted); display: flex; justify-content: space-between; gap: 16px; }
-    @media (max-width: 680px) {
-      .wrap { padding: 0 22px; }
-      header { align-items: flex-start; flex-direction: column; gap: 16px; padding: 23px 0; }
-      nav { gap: 10px 17px; }
-      .hero { padding: 58px 0 48px; }
-      .intro { font-size: 16px; }
-      section { grid-template-columns: 1fr; gap: 15px; padding: 27px 0; }
-      footer { flex-direction: column; gap: 4px; }
-    }
-    @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
-  </style>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Tianhua Oliver Wang | Home</title>
+<meta name="description" content="Research interests in climate finance, green finance policy, project-level green infrastructure financing, and risk pricing.">
+<link rel="canonical" href="https://tianhua-oliver-wang.github.io/index.html">
+<link rel="alternate" hreflang="en-US" href="https://tianhua-oliver-wang.github.io/index.html"><link rel="alternate" hreflang="zh-CN" href="https://tianhua-oliver-wang.github.io/zh-cn/index.html"><link rel="alternate" hreflang="zh-HK" href="https://tianhua-oliver-wang.github.io/zh-hk/index.html"><link rel="alternate" hreflang="x-default" href="https://tianhua-oliver-wang.github.io/index.html">
+<script src="./assets/language.js"></script>
+<script src="./assets/theme.js"></script>
+<link rel="stylesheet" href="./assets/style.css">
+<script defer src="./assets/name-alignment.js"></script>
 </head>
 <body>
-  <a class="skip" href="#main">Skip to content</a>
-  <div class="wrap">
-    <header>
-      <!-- 将用户名替换成你希望公开展示的姓名即可。 -->
-      <a class="brand" href="#">Tianhua-Oliver-Wang</a>
-      <nav aria-label="Main navigation">
-        <a href="#about">About</a>
-        <a href="#research">Research</a>
-        <a href="#publications">Publications</a>
-        <a href="#projects">Projects</a>
-        <a href="#cv">CV</a>
-        <a href="#contact">Contact</a>
-      </nav>
-    </header>
-    <main id="main">
-      <div class="hero">
-        <span class="eyebrow">Personal academic website</span>
-        <h1>Finance for a<br>changing climate.</h1>
-        <p class="intro">Research interests in climate finance, green finance policy, project-level green infrastructure financing, and risk pricing.</p>
-        <a class="button" href="#research">Explore research interests <span aria-hidden="true">↗</span></a>
-      </div>
-      <section id="about" aria-labelledby="about-title">
-        <h2 id="about-title">About</h2>
-        <div>
-          <p>Welcome to my academic website. I am interested in how finance and public policy can support the transition to a low-carbon economy.</p>
-          <!-- 发布测试后，在这里填写真实姓名、学校、专业和简短介绍。 -->
-          <p class="note">A brief biography and affiliation will be added here.</p>
-        </div>
-      </section>
-      <section id="research" aria-labelledby="research-title">
-        <h2 id="research-title">Research interests</h2>
-        <ul>
-          <li>Climate finance and financial risk pricing</li>
-          <li>Green finance policy and capital allocation</li>
-          <li>Project-level green infrastructure financing</li>
-          <li>Climate-related risk and investment decisions</li>
-        </ul>
-      </section>
-      <section id="publications" aria-labelledby="publications-title">
-        <h2 id="publications-title">Publications</h2>
-        <p class="note">No publications are listed at this time.</p>
-      </section>
-      <section id="projects" aria-labelledby="projects-title">
-        <h2 id="projects-title">Projects</h2>
-        <p class="note">Project descriptions will be added as research develops.</p>
-      </section>
-      <section id="cv" aria-labelledby="cv-title">
-        <h2 id="cv-title">Curriculum vitae</h2>
-        <!-- 准备好真实 CV 后，上传 cv.pdf，并用下面的链接替换占位文字：
-        <p><a href="./cv.pdf">Download CV (PDF)</a></p>
-        -->
-        <p class="note">A curriculum vitae will be available here soon.</p>
-      </section>
-      <section id="contact" aria-labelledby="contact-title">
-        <h2 id="contact-title">Contact</h2>
-        <div>
-          <p><a href="https://github.com/Tianhua-Oliver-Wang">GitHub <span aria-hidden="true">↗</span></a></p>
-          <!-- 如需公开邮箱，在这里加入 mailto: 链接。 -->
-          <p class="note">An academic email address will be added here.</p>
-        </div>
-      </section>
-    </main>
-    <footer>
-      <span>Tianhua-Oliver-Wang · Academic website</span>
-      <span>Climate · Finance · Policy</span>
-    </footer>
-  </div>
+<a class="skip" href="#main">Skip to Content</a>
+<div class="shell">
+<header class="topbar"><a class="brand" href="index.html"><span class="english-name">Tianhua Oliver Wang</span><span class="chinese-name" lang="zh-CN">王天华</span></a><div class="header-tools"><nav class="languages" aria-label="Language"><a href="index.html?lang=en-US" lang="en-US" hreflang="en-US" aria-current="true">English</a><a href="zh-cn/index.html?lang=zh-CN" lang="zh-CN" hreflang="zh-CN">简体</a><a href="zh-hk/index.html?lang=zh-HK" lang="zh-HK" hreflang="zh-HK">繁體</a></nav><button class="theme-toggle" type="button" hidden data-theme-toggle data-dark-label="Switch to Dark Mode" data-light-label="Switch to Light Mode" aria-label="Switch to Dark Mode" aria-pressed="false"><svg class="icon-moon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M20.5 13.1A8.5 8.5 0 0 1 10.9 3.5 8.5 8.5 0 1 0 20.5 13.1Z"/></svg><svg class="icon-sun" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="4"/><path d="M12 2v2m0 16v2M2 12h2m16 0h2M4.93 4.93l1.42 1.42m11.3 11.3 1.42 1.42m0-14.14-1.42 1.42m-11.3 11.3-1.42 1.42"/></svg></button></div></header>
+<div class="page-grid">
+<aside class="sidebar"><nav aria-label="Main Navigation"><a href="index.html#about">About</a><a href="research.html">Research</a><a href="index.html#publications">Publications</a><a href="index.html#projects">Projects</a><a href="writing.html">Writing &amp; Notes</a><a href="cv.html">CV</a><a href="index.html#contact">Contact</a></nav><div class="profile"><span class="eyebrow">Research Focus</span><p>Climate finance, green finance policy, and infrastructure investment.</p><a href="https://github.com/Tianhua-Oliver-Wang">GitHub <span aria-hidden="true">↗</span></a></div></aside>
+<main id="main"><div class="hero"><span class="eyebrow">Climate · Finance · Policy</span><h1>Finance for a<br>Changing Climate.</h1><p class="lede">Understanding how capital, policy, and risk shape the transition to a low-carbon economy.</p><div class="actions"><a class="button" href="research.html">Explore Research Interests <span aria-hidden="true">↗</span></a><a href="cv.html">View Curriculum Vitae</a></div></div><section id="about" aria-labelledby="about-title"><h2 id="about-title">About</h2><p>My interests lie at the intersection of climate finance and public policy, with a particular focus on project-level green infrastructure financing and risk pricing.</p><p>I am interested in how policy influences the allocation of capital, how climate-related risks enter financing decisions, and how these mechanisms affect green infrastructure investment.</p><p class="note">A personal biography and affiliation will be added here.</p></section><section id="research" aria-labelledby="research-title"><h2 id="research-title">Research</h2><p class="note">Three connected areas of research interest, moving from policy and capital allocation to individual projects and the pricing of risk.</p><a class="topic-row" href="research.html#area-1"><span class="number">01</span><div><h3>Climate Finance &amp; Risk Pricing</h3><p>How climate-related risks influence financing costs and investment decisions.</p></div><span aria-hidden="true">↗</span></a><a class="topic-row" href="research.html#area-2"><span class="number">02</span><div><h3>Green Finance Policy</h3><p>How public policy shapes capital allocation and incentives for green investment.</p></div><span aria-hidden="true">↗</span></a><a class="topic-row" href="research.html#area-3"><span class="number">03</span><div><h3>Green Infrastructure Financing</h3><p>How project-level financing arrangements support low-carbon infrastructure.</p></div><span aria-hidden="true">↗</span></a></section><section id="publications" aria-labelledby="publications-title"><h2 id="publications-title">Publications</h2><div class="empty"><p class="note">No publications are listed at this time.</p><p class="note">Publications and working papers will be added when available.</p></div></section><section id="projects" aria-labelledby="projects-title"><h2 id="projects-title">Projects</h2><div class="empty"><p class="note">No research projects are listed yet.</p><p class="note">Future entries will include a research question, project status, and links to available materials.</p></div></section><section id="writing" aria-labelledby="writing-title"><h2 id="writing-title">Writing &amp; Notes</h2><p>A space for research notes, reading reflections, and commentary on climate finance and policy.</p><div class="empty"><p class="note">No writing or research notes are listed yet.</p></div><p style="margin-top:16px"><a href="writing.html">Writing &amp; Notes <span aria-hidden="true">↗</span></a></p></section><section id="cv" aria-labelledby="cv-title"><h2 id="cv-title">Curriculum Vitae</h2><p>Education, research experience, and academic activities will be listed here as details are confirmed.</p><a href="cv.html">View Curriculum Vitae <span aria-hidden="true">↗</span></a></section><section id="contact" aria-labelledby="contact-title"><h2 id="contact-title">Contact</h2><p>For now, you can find my public profile on GitHub.</p><p><a href="https://github.com/Tianhua-Oliver-Wang">GitHub <span aria-hidden="true">↗</span></a></p><p class="note">An academic email address will be added here.</p></section></main>
+</div>
+<footer><span>Tianhua Oliver Wang</span><span>Climate · Finance · Policy</span></footer>
+</div>
 </body>
 </html>

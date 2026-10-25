@@ -1,0 +1,312 @@
+{
+  "profile": {
+    "github": "https://github.com/Tianhua-Oliver-Wang",
+    "email": "",
+    "cv_file": ""
+  },
+  "locales": {
+    "en-US": {
+      "lang": "en-US",
+      "name": "Tianhua Oliver Wang",
+      "description": "Research interests in climate finance, green finance policy, project-level green infrastructure financing, and risk pricing.",
+      "nav": [
+        "About",
+        "Research",
+        "Publications",
+        "Projects",
+        "CV",
+        "Contact"
+      ],
+      "skip": "Skip to Content",
+      "language": "Language",
+      "home": "Home",
+      "eyebrow": "Climate · Finance · Policy",
+      "hero": [
+        "Finance for a",
+        "Changing Climate."
+      ],
+      "intro": "Understanding how capital, policy, and risk shape the transition to a low-carbon economy.",
+      "research_link": "Explore Research Interests",
+      "cv_link": "View Curriculum Vitae",
+      "profile_label": "Research Focus",
+      "profile_text": "Climate finance, green finance policy, and infrastructure investment.",
+      "about": [
+        "My interests lie at the intersection of climate finance and public policy, with a particular focus on project-level green infrastructure financing and risk pricing.",
+        "I am interested in how policy influences the allocation of capital, how climate-related risks enter financing decisions, and how these mechanisms affect green infrastructure investment."
+      ],
+      "bio_pending": "A personal biography and affiliation will be added here.",
+      "research_intro": "Three connected areas of research interest, moving from policy and capital allocation to individual projects and the pricing of risk.",
+      "areas": [
+        {
+          "title": "Climate Finance & Risk Pricing",
+          "summary": "How climate-related risks influence financing costs and investment decisions.",
+          "question": "How are physical and transition risks reflected in the cost of capital for green infrastructure projects?",
+          "topics": [
+            "Climate-Related Financial Risk",
+            "Cost of Capital",
+            "Risk Pricing"
+          ]
+        },
+        {
+          "title": "Green Finance Policy",
+          "summary": "How public policy shapes capital allocation and incentives for green investment.",
+          "question": "How do green finance policies affect access to financing and the allocation of capital across projects?",
+          "topics": [
+            "Policy Design",
+            "Capital Allocation",
+            "Investment Incentives"
+          ]
+        },
+        {
+          "title": "Green Infrastructure Financing",
+          "summary": "How project-level financing arrangements support low-carbon infrastructure.",
+          "question": "How do project characteristics and financing arrangements influence the allocation of risks among investors?",
+          "topics": [
+            "Project-Level Financing",
+            "Infrastructure Investment",
+            "Risk Allocation"
+          ]
+        }
+      ],
+      "question_label": "Illustrative Research Question",
+      "topics_label": "Related Topics",
+      "research_note": "The questions below describe potential directions for exploration. They are not claims of ongoing projects or completed research.",
+      "publications_empty": "No publications are listed at this time.",
+      "publications_note": "Publications and working papers will be added when available.",
+      "projects_empty": "No research projects are listed yet.",
+      "projects_note": "Future entries will include a research question, project status, and links to available materials.",
+      "cv_intro": "Education, research experience, and academic activities will be listed here as details are confirmed.",
+      "cv_empty": "A downloadable CV has not yet been added.",
+      "cv_download": "Download CV (PDF)",
+      "cv_sections": [
+        "Education",
+        "Research Experience",
+        "Academic Activities"
+      ],
+      "cv_pending": [
+        "Education details have not yet been added.",
+        "Research experience has not yet been added.",
+        "Academic activities have not yet been added."
+      ],
+      "contact_intro": "For now, you can find my public profile on GitHub.",
+      "email_pending": "An academic email address will be added here.",
+      "email_label": "Email",
+      "footer": "Climate · Finance · Policy",
+      "research_page": "Research Interests",
+      "cv_page": "Curriculum Vitae",
+      "detail_intro": "Research interests centered on the financing of a low-carbon transition, with attention to the links between policy, individual projects, and financial risk.",
+      "writing_page": "Writing & Notes",
+      "writing_intro": "A space for research notes, reading reflections, and commentary on climate finance and policy.",
+      "writing_empty": "No writing or research notes are listed yet.",
+      "publications": [],
+      "projects": [],
+      "writing": [],
+      "navigation_label": "Main Navigation",
+      "theme_dark_label": "Switch to Dark Mode",
+      "theme_light_label": "Switch to Light Mode",
+      "chinese_name": "王天华"
+    },
+    "zh-CN": {
+      "lang": "zh-CN",
+      "name": "Tianhua Oliver Wang",
+      "description": "关注气候金融、绿色金融政策、项目级绿色基础设施融资与风险定价。",
+      "nav": [
+        "关于我",
+        "研究方向",
+        "论文成果",
+        "研究项目",
+        "个人履历",
+        "联系"
+      ],
+      "skip": "跳转到正文",
+      "language": "选择语言",
+      "home": "首页",
+      "eyebrow": "气候 · 金融 · 政策",
+      "hero": [
+        "以金融视角，",
+        "理解气候转型。"
+      ],
+      "intro": "关注资本、政策与风险如何共同影响低碳经济转型。",
+      "research_link": "了解研究方向",
+      "cv_link": "查看个人履历",
+      "profile_label": "研究关注",
+      "profile_text": "气候金融、绿色金融政策与基础设施投资。",
+      "about": [
+        "我的研究兴趣位于气候金融与公共政策的交叉领域，尤其关注项目级绿色基础设施融资与风险定价。",
+        "我希望理解政策如何影响资本配置、气候相关风险如何进入融资决策，以及这些机制如何作用于绿色基础设施投资。"
+      ],
+      "bio_pending": "个人简介与学校信息将于后续补充。",
+      "research_intro": "三个相互关联的研究方向，从政策与资本配置延伸至具体项目及其风险定价。",
+      "areas": [
+        {
+          "title": "气候金融与风险定价",
+          "summary": "关注气候相关风险如何影响融资成本与投资决策。",
+          "question": "物理风险与转型风险如何体现在绿色基础设施项目的资本成本中？",
+          "topics": [
+            "气候相关金融风险",
+            "资本成本",
+            "风险定价"
+          ]
+        },
+        {
+          "title": "绿色金融政策",
+          "summary": "关注公共政策如何影响资本配置与绿色投资激励。",
+          "question": "绿色金融政策如何影响项目的融资可得性与项目之间的资本配置？",
+          "topics": [
+            "政策设计",
+            "资本配置",
+            "投资激励"
+          ]
+        },
+        {
+          "title": "绿色基础设施融资",
+          "summary": "关注项目层面的融资安排如何支持低碳基础设施建设。",
+          "question": "项目特征与融资安排如何影响投资者之间的风险分担？",
+          "topics": [
+            "项目级融资",
+            "基础设施投资",
+            "风险分担"
+          ]
+        }
+      ],
+      "question_label": "潜在研究问题示例",
+      "topics_label": "相关议题",
+      "research_note": "以下问题用于说明可探索的研究方向，不代表正在开展的项目或已完成的研究。",
+      "publications_empty": "目前暂无列出的论文成果。",
+      "publications_note": "后续将根据实际进展补充论文与工作论文。",
+      "projects_empty": "目前暂无列出的研究项目。",
+      "projects_note": "后续项目条目将包含研究问题、项目进展与可公开的资料链接。",
+      "cv_intro": "教育背景、研究经历与学术活动将在信息确认后逐步补充。",
+      "cv_empty": "暂未提供可下载的个人履历。",
+      "cv_download": "下载个人履历（PDF）",
+      "cv_sections": [
+        "教育背景",
+        "研究经历",
+        "学术活动"
+      ],
+      "cv_pending": [
+        "教育背景信息待补充。",
+        "研究经历信息待补充。",
+        "学术活动信息待补充。"
+      ],
+      "contact_intro": "目前可通过 GitHub 查看我的公开主页。",
+      "email_pending": "学术联系邮箱将于后续补充。",
+      "email_label": "电子邮箱",
+      "footer": "气候 · 金融 · 政策",
+      "research_page": "研究方向",
+      "cv_page": "个人履历",
+      "detail_intro": "围绕低碳转型的融资问题，关注政策、具体项目与金融风险之间的联系。",
+      "writing_page": "写作与笔记",
+      "writing_intro": "记录研究笔记、阅读思考，以及对气候金融与政策问题的观察。",
+      "writing_empty": "目前暂无列出的文章或研究笔记。",
+      "publications": [],
+      "projects": [],
+      "writing": [],
+      "navigation_label": "主导航",
+      "theme_dark_label": "切换至深色模式",
+      "theme_light_label": "切换至浅色模式",
+      "chinese_name": "王天华"
+    },
+    "zh-HK": {
+      "lang": "zh-HK",
+      "name": "Tianhua Oliver Wang",
+      "description": "關注氣候金融、綠色金融政策、項目層面的綠色基建融資與風險定價。",
+      "nav": [
+        "關於我",
+        "研究方向",
+        "學術著作",
+        "研究項目",
+        "個人履歷",
+        "聯絡"
+      ],
+      "skip": "跳至正文",
+      "language": "選擇語言",
+      "home": "首頁",
+      "eyebrow": "氣候 · 金融 · 政策",
+      "hero": [
+        "從金融視角，",
+        "理解氣候轉型。"
+      ],
+      "intro": "關注資本、政策與風險如何共同影響低碳經濟轉型。",
+      "research_link": "了解研究方向",
+      "cv_link": "查看個人履歷",
+      "profile_label": "研究範疇",
+      "profile_text": "氣候金融、綠色金融政策與基建投資。",
+      "about": [
+        "我的研究興趣涵蓋氣候金融與公共政策的交叉領域，尤其關注項目層面的綠色基建融資與風險定價。",
+        "我希望了解政策如何影響資本配置、氣候相關風險如何納入融資決策，以及這些機制如何影響綠色基建投資。"
+      ],
+      "bio_pending": "個人簡介及所屬院校資料將於稍後補充。",
+      "research_intro": "三個相互關聯的研究方向，從政策與資本配置延伸至個別項目及其風險定價。",
+      "areas": [
+        {
+          "title": "氣候金融與風險定價",
+          "summary": "關注氣候相關風險如何影響融資成本與投資決策。",
+          "question": "實體風險與轉型風險如何反映於綠色基建項目的資本成本？",
+          "topics": [
+            "氣候相關金融風險",
+            "資本成本",
+            "風險定價"
+          ]
+        },
+        {
+          "title": "綠色金融政策",
+          "summary": "關注公共政策如何影響資本配置及綠色投資誘因。",
+          "question": "綠色金融政策如何影響項目取得融資的機會，以及項目之間的資本配置？",
+          "topics": [
+            "政策設計",
+            "資本配置",
+            "投資誘因"
+          ]
+        },
+        {
+          "title": "綠色基建融資",
+          "summary": "關注項目層面的融資安排如何支持低碳基建發展。",
+          "question": "項目特徵與融資安排如何影響投資者之間的風險分擔？",
+          "topics": [
+            "項目融資",
+            "基建投資",
+            "風險分擔"
+          ]
+        }
+      ],
+      "question_label": "可探索的研究問題示例",
+      "topics_label": "相關議題",
+      "research_note": "以下問題旨在說明可探索的研究方向，並不代表正在進行的項目或已完成的研究。",
+      "publications_empty": "目前尚未列出學術著作。",
+      "publications_note": "日後將按實際進展補充學術論文及工作論文。",
+      "projects_empty": "目前尚未列出研究項目。",
+      "projects_note": "日後的項目介紹將包括研究問題、項目進展及可公開的資料連結。",
+      "cv_intro": "教育背景、研究經驗及學術活動將於資料確認後逐步補充。",
+      "cv_empty": "暫未提供可供下載的個人履歷。",
+      "cv_download": "下載個人履歷（PDF）",
+      "cv_sections": [
+        "教育背景",
+        "研究經驗",
+        "學術活動"
+      ],
+      "cv_pending": [
+        "教育背景資料待補充。",
+        "研究經驗資料待補充。",
+        "學術活動資料待補充。"
+      ],
+      "contact_intro": "現時可透過 GitHub 瀏覽我的公開個人檔案。",
+      "email_pending": "學術聯絡電郵將於稍後補充。",
+      "email_label": "電郵",
+      "footer": "氣候 · 金融 · 政策",
+      "research_page": "研究方向",
+      "cv_page": "個人履歷",
+      "detail_intro": "圍繞低碳轉型的融資問題，關注政策、個別項目與金融風險之間的聯繫。",
+      "writing_page": "寫作與札記",
+      "writing_intro": "記錄研究札記、閱讀心得，以及對氣候金融與政策議題的觀察。",
+      "writing_empty": "目前尚未列出文章或研究札記。",
+      "publications": [],
+      "projects": [],
+      "writing": [],
+      "navigation_label": "主導覽",
+      "theme_dark_label": "切換至深色模式",
+      "theme_light_label": "切換至淺色模式",
+      "chinese_name": "王天華"
+    }
+  }
+}
